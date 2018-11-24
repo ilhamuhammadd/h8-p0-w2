@@ -42,7 +42,7 @@ for(var counter = 1; counter <= 100; counter++) {
 console.log("\n");
 console.log("Program Start From Here")
 
-for(var lipat = 2; lipat <= 100; lipat+=2) {
+for(var lipat = 1; lipat <= 100; lipat+=2) {
     if(lipat % 3 == 0) {
         console.log(lipat + " kelipatan 3");
     }
